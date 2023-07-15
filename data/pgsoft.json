@@ -1,0 +1,477 @@
+[
+  {
+    "value": 3867,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pg-soft/4749/thumbnail.jpg",
+    "name": "Legend of Perseus"
+  },
+  {
+    "value": 4345,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pg-soft/4738/thumbnail.jpg",
+    "name": "Speed Winner"
+  },
+  {
+    "value": 4456,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pg-soft/4715/thumbnail.jpg",
+    "name": "Lucky Piggy"
+  },
+  {
+    "value": 4063,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3802/thumbnail.jpg",
+    "name": "Mahjong Ways 2"
+  },
+  {
+    "value": 2416,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3795/thumbnail.jpg",
+    "name": "Mahjong Ways"
+  },
+  {
+    "value": 4885,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3811/thumbnail.jpg",
+    "name": "Treasures of Aztec"
+  },
+  {
+    "value": 4605,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3813/thumbnail.jpg",
+    "name": "Lucky Neko"
+  },
+  {
+    "value": 3425,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3826/thumbnail.jpg",
+    "name": "Wild Bandito"
+  },
+  {
+    "value": 2735,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3828/thumbnail.png",
+    "name": "Ways of the Qilin"
+  },
+  {
+    "value": 2102,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3804/thumbnail.jpg",
+    "name": "Dreams of Macau"
+  },
+  {
+    "value": 2351,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3800/thumbnail.jpg",
+    "name": "Cai Shen Wins"
+  },
+  {
+    "value": 4912,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3843/thumbnail.jpg",
+    "name": "Fortune Tiger"
+  },
+  {
+    "value": 3584,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3803/thumbnail.jpg",
+    "name": "Ganesha Fortune"
+  },
+  {
+    "value": 4419,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3837/thumbnail.jpg",
+    "name": "Supermarket Spree"
+  },
+  {
+    "value": 3319,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3822/thumbnail.jpg",
+    "name": "Candy Bonanza"
+  },
+  {
+    "value": 4397,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3787/thumbnail.jpg",
+    "name": "Dragon Hatch"
+  },
+  {
+    "value": 3598,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3785/thumbnail.jpg",
+    "name": "The Great Icescape"
+  },
+  {
+    "value": 2441,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3832/thumbnail.jpg",
+    "name": "Jurassic Kingdom"
+  },
+  {
+    "value": 2125,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3790/thumbnail.jpg",
+    "name": "Leprechaun Riches"
+  },
+  {
+    "value": 3949,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3801/thumbnail.jpg",
+    "name": "Egypt's Book of Mystery"
+  },
+  {
+    "value": 4881,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3830/thumbnail.jpg",
+    "name": "Buffalo Win"
+  },
+  {
+    "value": 3339,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3841/thumbnail.jpg",
+    "name": "Spirited Wonders"
+  },
+  {
+    "value": 4419,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3783/thumbnail.jpg",
+    "name": "Double Fortune"
+  },
+  {
+    "value": 3780,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3786/thumbnail.jpg",
+    "name": "Captain's Bounty"
+  },
+  {
+    "value": 4869,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3808/thumbnail.jpg",
+    "name": "Queen of Bounty"
+  },
+  {
+    "value": 4897,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3763/thumbnail.jpg",
+    "name": "Hood vs Wolf"
+  },
+  {
+    "value": 2186,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3761/thumbnail.jpg",
+    "name": "Medusa 1: the Curse of Athena"
+  },
+  {
+    "value": 2372,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3760/thumbnail.jpg",
+    "name": "Medusa 2: the Quest of Perseus"
+  },
+  {
+    "value": 3819,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3766/thumbnail.jpg",
+    "name": "Plushie Frenzy"
+  },
+  {
+    "value": 3503,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3816/thumbnail.jpg",
+    "name": "Thai River Wonders"
+  },
+  {
+    "value": 4949,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3762/thumbnail.jpg",
+    "name": "Wizdom Wonders"
+  },
+  {
+    "value": 3204,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3821/thumbnail.jpg",
+    "name": "Fortune Ox"
+  },
+  {
+    "value": 4596,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3767/thumbnail.jpg",
+    "name": "Tree of Fortune"
+  },
+  {
+    "value": 3930,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3807/thumbnail.jpg",
+    "name": "Wild Fireworks"
+  },
+  {
+    "value": 2638,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3768/thumbnail.jpg",
+    "name": "Hotpot"
+  },
+  {
+    "value": 4817,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3769/thumbnail.jpg",
+    "name": "Dragon Legend"
+  },
+  {
+    "value": 3849,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3771/thumbnail.jpg",
+    "name": "Hip Hop Panda"
+  },
+  {
+    "value": 3902,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3764/thumbnail.jpg",
+    "name": "Reel Love"
+  },
+  {
+    "value": 3692,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3772/thumbnail.jpg",
+    "name": "Legend of Hou Yi"
+  },
+  {
+    "value": 4503,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3773/thumbnail.jpg",
+    "name": "Mr. Hallow-Win!"
+  },
+  {
+    "value": 4875,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3774/thumbnail.jpg",
+    "name": "Prosperity Lion"
+  },
+  {
+    "value": 2035,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3765/thumbnail.jpg",
+    "name": "Win Win Won"
+  },
+  {
+    "value": 3392,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3775/thumbnail.jpg",
+    "name": "Santa's Gift Rush"
+  },
+  {
+    "value": 4738,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3776/thumbnail.jpg",
+    "name": "Gem Saviour Sword"
+  },
+  {
+    "value": 4837,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3777/thumbnail.jpg",
+    "name": "Piggy Gold"
+  },
+  {
+    "value": 3389,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3778/thumbnail.jpg",
+    "name": "Jungle Delight"
+  },
+  {
+    "value": 4096,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3779/thumbnail.jpg",
+    "name": "Symbols Of Egypt"
+  },
+  {
+    "value": 3309,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3780/thumbnail.jpg",
+    "name": "Ganesha Gold"
+  },
+  {
+    "value": 2437,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3759/thumbnail.jpg",
+    "name": "Fortune Gods"
+  },
+  {
+    "value": 3190,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3781/thumbnail.jpg",
+    "name": "Three Monkeys"
+  },
+  {
+    "value": 2647,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3782/thumbnail.jpg",
+    "name": "Emperor's Favour"
+  },
+  {
+    "value": 3718,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3784/thumbnail.jpg",
+    "name": "Journey to the Wealth"
+  },
+  {
+    "value": 3915,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3758/thumbnail.jpg",
+    "name": "Gem Saviour"
+  },
+  {
+    "value": 3303,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3788/thumbnail.jpg",
+    "name": "Vampire's Charm"
+  },
+  {
+    "value": 3695,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3789/thumbnail.jpg",
+    "name": "Ninja vs Samurai"
+  },
+  {
+    "value": 3137,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3791/thumbnail.jpg",
+    "name": "Flirting Scholar"
+  },
+  {
+    "value": 2576,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3792/thumbnail.jpg",
+    "name": "Gem Saviour Conquest"
+  },
+  {
+    "value": 4544,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3793/thumbnail.jpg",
+    "name": "Dragon Tiger Luck"
+  },
+  {
+    "value": 4136,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3794/thumbnail.jpg",
+    "name": "Muay Thai Champion"
+  },
+  {
+    "value": 2847,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3757/thumbnail.jpg",
+    "name": "Honey Trap of Diao Chan"
+  },
+  {
+    "value": 2998,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3796/thumbnail.jpg",
+    "name": "Shaolin Soccer"
+  },
+  {
+    "value": 4499,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3797/thumbnail.jpg",
+    "name": "Fortune Mouse"
+  },
+  {
+    "value": 2652,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3798/thumbnail.jpg",
+    "name": "Bikini Paradise"
+  },
+  {
+    "value": 4144,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3799/thumbnail.jpg",
+    "name": "Candy Burst"
+  },
+  {
+    "value": 2443,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3805/thumbnail.jpg",
+    "name": "Circus Delight"
+  },
+  {
+    "value": 3838,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3806/thumbnail.jpg",
+    "name": "Phoenix Rises"
+  },
+  {
+    "value": 4841,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3809/thumbnail.jpg",
+    "name": "Genie's 3 Wishes"
+  },
+  {
+    "value": 3042,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3810/thumbnail.png",
+    "name": "Galactic Gems"
+  },
+  {
+    "value": 2400,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3812/thumbnail.jpg",
+    "name": "Jewels of Prosperity"
+  },
+  {
+    "value": 4142,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3814/thumbnail.jpg",
+    "name": "Secrets of Cleopatra"
+  },
+  {
+    "value": 4534,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3815/thumbnail.jpg",
+    "name": "Guardians of Ice & Fire"
+  },
+  {
+    "value": 3817,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3817/thumbnail.jpg",
+    "name": "Opera Dynasty"
+  },
+  {
+    "value": 4515,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3818/thumbnail.jpg",
+    "name": "Bali Vacation"
+  },
+  {
+    "value": 4250,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3819/thumbnail.jpg",
+    "name": "Majestic Treasures"
+  },
+  {
+    "value": 2720,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3820/thumbnail.jpg",
+    "name": "Jack Frost's Winter"
+  },
+  {
+    "value": 4359,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3823/thumbnail.jpg",
+    "name": "Rise of Apollo"
+  },
+  {
+    "value": 4198,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3824/thumbnail.jpg",
+    "name": "Mermaid Riches"
+  },
+  {
+    "value": 2809,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3825/thumbnail.jpg",
+    "name": "Crypto Gold"
+  },
+  {
+    "value": 3479,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3827/thumbnail.jpg",
+    "name": "Heist Stakes"
+  },
+  {
+    "value": 4906,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3829/thumbnail.jpg",
+    "name": "Legendary Monkey King"
+  },
+  {
+    "value": 2535,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3831/thumbnail.jpg",
+    "name": "Sushi Oishi"
+  },
+  {
+    "value": 4952,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3833/thumbnail.jpg",
+    "name": "Groundhog Harvest"
+  },
+  {
+    "value": 3280,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3834/thumbnail.jpg",
+    "name": "Oriental Prosperity"
+  },
+  {
+    "value": 2780,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3835/thumbnail.jpg",
+    "name": "Raider Jane's Crypt of Fortune"
+  },
+  {
+    "value": 2901,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3836/thumbnail.jpg",
+    "name": "Emoji Riches"
+  },
+  {
+    "value": 3313,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3838/thumbnail.jpg",
+    "name": "Farm Invaders"
+  },
+  {
+    "value": 4894,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3839/thumbnail.jpg",
+    "name": "Cocktail Nights"
+  },
+  {
+    "value": 2978,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pgsoft/3840/thumbnail.jpg",
+    "name": "Mask Carnival"
+  },
+  {
+    "value": 4538,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pg-soft/3842/thumbnail.png",
+    "name": "Garuda Gems"
+  },
+  {
+    "value": 3925,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pg-soft/3958/thumbnail.png",
+    "name": "Destiny of sun and moon"
+  },
+  {
+    "value": 3884,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pg-soft/3973/thumbnail.jpg",
+    "name": "Butterfly Blossom"
+  },
+  {
+    "value": 4551,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pg-soft/3983/thumbnail.jpg",
+    "name": "Rooster Rumble"
+  },
+  {
+    "value": 2109,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pg-soft/4413/thumbnail.jpg",
+    "name": "The Queen’s Banquet"
+  },
+  {
+    "value": 2438,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pg-soft/4612/thumbnail.jpg",
+    "name": "Battleground Royale"
+  },
+  {
+    "value": 2841,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/pg-soft/4695/thumbnail.png",
+    "name": "Win Win Fish Prawn Crab"
+  }
+]

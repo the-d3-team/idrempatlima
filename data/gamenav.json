@@ -1,0 +1,72 @@
+[
+  {
+    "link": "./",
+    "icon": "./pragmatic-play.svg",
+    "name": "Pragmatic Play"
+  },
+  {
+    "link": "./idnslot",
+    "icon": "./idnslot.svg",
+    "name": "IDN Slot"
+  },
+  {
+    "link": "./pgsoft",
+    "icon": "./pgsoft.svg",
+    "name": "PG Soft"
+  },
+  {
+    "link": "./microgaming",
+    "icon": "./microgaming.svg",
+    "name": "Microgaming"
+  },
+  {
+    "link": "./bgaming",
+    "icon": "./bgaming.svg",
+    "name": "Bgaming"
+  },
+  {
+    "link": "./gmw",
+    "icon": "./gmw.svg",
+    "name": "GMW"
+  },
+  {
+    "link": "./redtiger",
+    "icon": "./evolution-redtiger.svg",
+    "name": "Red Tiger"
+  },
+  {
+    "link": "./habanero",
+    "icon": "./habanero.svg",
+    "name": "Habanero"
+  },
+  {
+    "link": "./btg",
+    "icon": "./evolution-btg.svg",
+    "name": "BTG"
+  },
+  {
+    "link": "./spinomenal",
+    "icon": "./spinomenal.svg",
+    "name": "Spinomenal"
+  },
+  {
+    "link": "./netent",
+    "icon": "./evolution-netent.svg",
+    "name": "NetEnt"
+  },
+  {
+    "link": "./felix",
+    "icon": "./felix.svg",
+    "name": "Felix"
+  },
+  {
+    "link": "./wearecasino",
+    "icon": "./wearecasino.svg",
+    "name": "WeAreCasino"
+  },
+  {
+    "link": "./yggdrasil",
+    "icon": "./yggdrasil.svg",
+    "name": "Yggdrasil"
+  }
+]

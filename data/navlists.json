@@ -1,0 +1,27 @@
+[
+  {
+    "link": "https://idr45b.com/",
+    "icon": "/home.svg",
+    "name": "Home"
+  },
+  {
+    "link": "https://idr45b.com/",
+    "icon": "/game.svg",
+    "name": "Game"
+  },
+  {
+    "link": "https://idr45b.com/",
+    "icon": "/news.svg",
+    "name": "News"
+  },
+  {
+    "link": "./",
+    "icon": "/tip-trik.svg",
+    "name": "Tip & Trik"
+  },
+  {
+    "link": "./",
+    "icon": "/rtp.svg",
+    "name": "RTP Live"
+  }
+]

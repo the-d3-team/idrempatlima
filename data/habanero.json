@@ -1,0 +1,677 @@
+[
+  {
+    "value": 2688,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/4723/thumbnail.jpg",
+    "name": "Golden Unicorn Deluxe"
+  },
+  {
+    "value": 2928,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/4629/thumbnail.jpg",
+    "name": "Bomb Runner"
+  },
+  {
+    "value": 3285,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/4588/thumbnail.jpg",
+    "name": "Mighty Medusa"
+  },
+  {
+    "value": 2348,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/89/thumbnail.jpeg",
+    "name": "Hot Hot Fruit"
+  },
+  {
+    "value": 4415,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/88/thumbnail.jpeg",
+    "name": "Fa Cai Shen Deluxe"
+  },
+  {
+    "value": 3834,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/52/thumbnail.jpeg",
+    "name": "Koi Gate"
+  },
+  {
+    "value": 3371,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/2839/thumbnail.jpg",
+    "name": "Mystic Fortune Deluxe"
+  },
+  {
+    "value": 3014,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/48/thumbnail.jpeg",
+    "name": "Fa Cai Shen"
+  },
+  {
+    "value": 4051,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/74/thumbnail.jpeg",
+    "name": "Wealth Inn"
+  },
+  {
+    "value": 4753,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/91/thumbnail.jpeg",
+    "name": "Four Divine Beasts"
+  },
+  {
+    "value": 4285,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/66/thumbnail.jpeg",
+    "name": "Wild Trucks"
+  },
+  {
+    "value": 3508,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/90/thumbnail.jpeg",
+    "name": "5 Lucky Lions"
+  },
+  {
+    "value": 4407,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/81/thumbnail.jpeg",
+    "name": "Return To The Feature"
+  },
+  {
+    "value": 2041,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/2893/thumbnail.jpg",
+    "name": "Fly!"
+  },
+  {
+    "value": 3531,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/2942/thumbnail.jpg",
+    "name": "Nine Tails"
+  },
+  {
+    "value": 2589,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/1/thumbnail.jpeg",
+    "name": "Candy Tower"
+  },
+  {
+    "value": 4992,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/79/thumbnail.jpeg",
+    "name": "Taberna De Los Muertos Ultra"
+  },
+  {
+    "value": 4844,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/64/thumbnail.jpeg",
+    "name": "Happiest Christmas Tree"
+  },
+  {
+    "value": 2818,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/95/thumbnail.jpeg",
+    "name": "Ocean's Call"
+  },
+  {
+    "value": 2340,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/67/thumbnail.jpeg",
+    "name": "Lucky Lucky"
+  },
+  {
+    "value": 2522,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/68/thumbnail.jpeg",
+    "name": "Hot Hot Halloween"
+  },
+  {
+    "value": 3189,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/70/thumbnail.jpeg",
+    "name": "Lucky Fortune Cat"
+  },
+  {
+    "value": 4954,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/34/thumbnail.jpeg",
+    "name": "Shaolin Fortunes"
+  },
+  {
+    "value": 2521,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/50/thumbnail.jpeg",
+    "name": "Panda Panda"
+  },
+  {
+    "value": 4633,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/29/thumbnail.jpeg",
+    "name": "Zeus"
+  },
+  {
+    "value": 4728,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/82/thumbnail.jpeg",
+    "name": "Hey Sushi"
+  },
+  {
+    "value": 3526,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/71/thumbnail.jpeg",
+    "name": "Scopa"
+  },
+  {
+    "value": 2359,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/2581/thumbnail.jpeg",
+    "name": "Calaveras Explosivas"
+  },
+  {
+    "value": 2015,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/93/thumbnail.jpeg",
+    "name": "Santa's Village"
+  },
+  {
+    "value": 4201,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/69/thumbnail.jpeg",
+    "name": "Wizards Want War!"
+  },
+  {
+    "value": 4826,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/65/thumbnail.jpeg",
+    "name": "Mount Mazuma"
+  },
+  {
+    "value": 4309,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/77/thumbnail.jpeg",
+    "name": "Christmas Gift Rush"
+  },
+  {
+    "value": 2436,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/87/thumbnail.jpeg",
+    "name": "Naughty Santa"
+  },
+  {
+    "value": 3476,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/85/thumbnail.jpeg",
+    "name": "Taberna De Los Muertos"
+  },
+  {
+    "value": 3754,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/86/thumbnail.jpeg",
+    "name": "Colossal Gems"
+  },
+  {
+    "value": 3999,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/98/thumbnail.jpeg",
+    "name": "12 Zodiacs"
+  },
+  {
+    "value": 3642,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/62/thumbnail.jpeg",
+    "name": "Jump!"
+  },
+  {
+    "value": 4106,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/78/thumbnail.jpeg",
+    "name": "Orbs of Atlantis"
+  },
+  {
+    "value": 2718,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/75/thumbnail.jpeg",
+    "name": "Happy Ape"
+  },
+  {
+    "value": 2765,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/105/thumbnail.jpeg",
+    "name": "Zeus 2"
+  },
+  {
+    "value": 4557,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/97/thumbnail.jpeg",
+    "name": "Fenghuang"
+  },
+  {
+    "value": 3230,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/59/thumbnail.jpeg",
+    "name": "Fortune Dogs"
+  },
+  {
+    "value": 4436,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/72/thumbnail.jpeg",
+    "name": "Knockout Football Rush"
+  },
+  {
+    "value": 2074,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/96/thumbnail.jpeg",
+    "name": "Nuwa"
+  },
+  {
+    "value": 2308,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/61/thumbnail.jpeg",
+    "name": "Egyptian Dreams Deluxe"
+  },
+  {
+    "value": 3276,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/83/thumbnail.jpeg",
+    "name": "Loony Blox"
+  },
+  {
+    "value": 4719,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/63/thumbnail.jpeg",
+    "name": "Pumpkin Patch"
+  },
+  {
+    "value": 4578,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/76/thumbnail.jpeg",
+    "name": "Totem Towers"
+  },
+  {
+    "value": 4686,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/43/thumbnail.jpeg",
+    "name": "Bombs Away"
+  },
+  {
+    "value": 2456,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/99/thumbnail.jpeg",
+    "name": "Fire Rooster"
+  },
+  {
+    "value": 4611,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/2/thumbnail.jpeg",
+    "name": "Jellyfish Flow"
+  },
+  {
+    "value": 3678,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/73/thumbnail.jpeg",
+    "name": "Techno Tumble"
+  },
+  {
+    "value": 4517,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/53/thumbnail.jpeg",
+    "name": "5 Mariachis"
+  },
+  {
+    "value": 2533,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/18/thumbnail.jpeg",
+    "name": "All For One"
+  },
+  {
+    "value": 3794,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/38/thumbnail.jpeg",
+    "name": "Arcane Elements"
+  },
+  {
+    "value": 3545,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/117/thumbnail.jpeg",
+    "name": "Arctic Wonders"
+  },
+  {
+    "value": 4521,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/8/thumbnail.jpeg",
+    "name": "Aztlan's Gold"
+  },
+  {
+    "value": 4238,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/24/thumbnail.jpeg",
+    "name": "Barnstormer Bucks"
+  },
+  {
+    "value": 2410,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/80/thumbnail.jpeg",
+    "name": "Before Time Runs Out"
+  },
+  {
+    "value": 2909,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/23/thumbnail.jpeg",
+    "name": "Bikini Island"
+  },
+  {
+    "value": 2283,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/49/thumbnail.jpeg",
+    "name": "Bird of Thunder"
+  },
+  {
+    "value": 2869,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/31/thumbnail.jpeg",
+    "name": "Blackbeard's Bounty"
+  },
+  {
+    "value": 2062,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/39/thumbnail.jpeg",
+    "name": "Buggy Bonus"
+  },
+  {
+    "value": 2904,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/54/thumbnail.jpeg",
+    "name": "Cake Valley"
+  },
+  {
+    "value": 3764,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/108/thumbnail.jpeg",
+    "name": "Carnival Cash"
+  },
+  {
+    "value": 3261,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/14/thumbnail.jpeg",
+    "name": "Cash Reef"
+  },
+  {
+    "value": 3959,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/3/thumbnail.jpeg",
+    "name": "Cashosaurus"
+  },
+  {
+    "value": 4625,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/101/thumbnail.jpeg",
+    "name": "Coyote Crash"
+  },
+  {
+    "value": 4947,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/4/thumbnail.jpeg",
+    "name": "Disco Funk"
+  },
+  {
+    "value": 3314,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/113/thumbnail.jpeg",
+    "name": "Double O Dollars"
+  },
+  {
+    "value": 3565,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/111/thumbnail.jpeg",
+    "name": "Dr Feelgood"
+  },
+  {
+    "value": 2147,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/35/thumbnail.jpeg",
+    "name": "Dragon Castle"
+  },
+  {
+    "value": 4343,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/17/thumbnail.jpeg",
+    "name": "Dragon's Realm"
+  },
+  {
+    "value": 2743,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/42/thumbnail.jpeg",
+    "name": "Dragon's Throne"
+  },
+  {
+    "value": 4835,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/115/thumbnail.jpeg",
+    "name": "Egyptian Dreams"
+  },
+  {
+    "value": 4095,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/19/thumbnail.jpeg",
+    "name": "Flying High"
+  },
+  {
+    "value": 2750,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/121/thumbnail.jpeg",
+    "name": "Frontier Fortunes"
+  },
+  {
+    "value": 2541,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/104/thumbnail.jpeg",
+    "name": "Galactic Cash"
+  },
+  {
+    "value": 4850,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/46/thumbnail.jpeg",
+    "name": "Gangsters"
+  },
+  {
+    "value": 4873,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/40/thumbnail.jpeg",
+    "name": "Glam Rock"
+  },
+  {
+    "value": 4294,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/44/thumbnail.jpeg",
+    "name": "Gold Rush"
+  },
+  {
+    "value": 2728,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/11/thumbnail.jpeg",
+    "name": "Golden Unicorn"
+  },
+  {
+    "value": 3120,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/5/thumbnail.jpeg",
+    "name": "Haunted House"
+  },
+  {
+    "value": 4543,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/118/thumbnail.jpeg",
+    "name": "Indian Cash Catcher"
+  },
+  {
+    "value": 2180,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/84/thumbnail.jpeg",
+    "name": "Jellyfish Flow Ultra"
+  },
+  {
+    "value": 4763,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/103/thumbnail.jpeg",
+    "name": "Jugglenaut"
+  },
+  {
+    "value": 2130,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/26/thumbnail.jpeg",
+    "name": "Jungle Rumble"
+  },
+  {
+    "value": 2058,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/106/thumbnail.jpeg",
+    "name": "Kane's Inferno"
+  },
+  {
+    "value": 4125,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/36/thumbnail.jpeg",
+    "name": "King Tut's Tomb"
+  },
+  {
+    "value": 2778,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/60/thumbnail.jpeg",
+    "name": "Knockout Football"
+  },
+  {
+    "value": 3260,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/32/thumbnail.jpeg",
+    "name": "Little Green Money"
+  },
+  {
+    "value": 4347,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/55/thumbnail.jpeg",
+    "name": "London Hunter"
+  },
+  {
+    "value": 2596,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/56/thumbnail.jpeg",
+    "name": "Magic Oak"
+  },
+  {
+    "value": 2269,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/107/thumbnail.jpeg",
+    "name": "Monster Mash Cash"
+  },
+  {
+    "value": 2932,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/20/thumbnail.jpeg",
+    "name": "Mr Bling"
+  },
+  {
+    "value": 4888,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/22/thumbnail.jpeg",
+    "name": "Mummy Money"
+  },
+  {
+    "value": 3519,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/static/common/casino/habanero/SGMysticFortune.png",
+    "name": "Mystic Fortune"
+  },
+  {
+    "value": 3993,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/28/thumbnail.jpeg",
+    "name": "Pamper Me"
+  },
+  {
+    "value": 4505,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/120/thumbnail.jpeg",
+    "name": "Pirate's Plunder"
+  },
+  {
+    "value": 4248,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/110/thumbnail.jpeg",
+    "name": "Pool Shark"
+  },
+  {
+    "value": 2170,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/57/thumbnail.jpeg",
+    "name": "Presto!"
+  },
+  {
+    "value": 4195,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/12/thumbnail.jpeg",
+    "name": "Pucker Up Prince"
+  },
+  {
+    "value": 3163,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/15/thumbnail.jpeg",
+    "name": "Queen of Queens"
+  },
+  {
+    "value": 4067,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/16/thumbnail.jpeg",
+    "name": "Queen of Queens II"
+  },
+  {
+    "value": 4154,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/119/thumbnail.jpeg",
+    "name": "Ride 'em Cowboy"
+  },
+  {
+    "value": 3221,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/6/thumbnail.jpeg",
+    "name": "Rodeo Drive"
+  },
+  {
+    "value": 3030,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/92/thumbnail.jpeg",
+    "name": "Rolling Roger"
+  },
+  {
+    "value": 4451,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/41/thumbnail.jpeg",
+    "name": "Roman Empire"
+  },
+  {
+    "value": 4778,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/47/thumbnail.jpeg",
+    "name": "Ruffled Up"
+  },
+  {
+    "value": 4675,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/114/thumbnail.jpeg",
+    "name": "S.O.S!"
+  },
+  {
+    "value": 3395,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/51/thumbnail.jpeg",
+    "name": "Scruffy Scallywags"
+  },
+  {
+    "value": 3660,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/33/thumbnail.jpeg",
+    "name": "Shaolin Fortunes 100"
+  },
+  {
+    "value": 2961,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/9/thumbnail.jpeg",
+    "name": "Shogun's Land"
+  },
+  {
+    "value": 4749,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/13/thumbnail.jpeg",
+    "name": "Sir Blingalot"
+  },
+  {
+    "value": 4549,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/7/thumbnail.jpeg",
+    "name": "Sky's the Limit"
+  },
+  {
+    "value": 3671,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/27/thumbnail.jpeg",
+    "name": "Space Fortune"
+  },
+  {
+    "value": 4272,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/45/thumbnail.jpeg",
+    "name": "Sparta"
+  },
+  {
+    "value": 3282,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/25/thumbnail.jpeg",
+    "name": "Super Strike"
+  },
+  {
+    "value": 2339,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/100/thumbnail.jpeg",
+    "name": "Super Twister"
+  },
+  {
+    "value": 2748,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/122/thumbnail.jpeg",
+    "name": "The Big Deal"
+  },
+  {
+    "value": 4165,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/94/thumbnail.jpeg",
+    "name": "The Dead Escape"
+  },
+  {
+    "value": 4647,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/10/thumbnail.jpeg",
+    "name": "The Grape Escape"
+  },
+  {
+    "value": 2264,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/21/thumbnail.jpeg",
+    "name": "Tower Of Pizza"
+  },
+  {
+    "value": 3540,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/static/common/casino/habanero/SGTreasureDiver.png",
+    "name": "Treasure Diver"
+  },
+  {
+    "value": 2400,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/37/thumbnail.jpeg",
+    "name": "Treasure Tomb"
+  },
+  {
+    "value": 4858,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/112/thumbnail.jpeg",
+    "name": "Viking's Plunder"
+  },
+  {
+    "value": 4023,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/58/thumbnail.jpeg",
+    "name": "Ways Of Fortune"
+  },
+  {
+    "value": 4927,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/30/thumbnail.jpeg",
+    "name": "Weird Science"
+  },
+  {
+    "value": 4142,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/102/thumbnail.jpeg",
+    "name": "Wicked Witch"
+  },
+  {
+    "value": 3634,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/1412/thumbnail.jpeg",
+    "name": "Marvelous Furlongs"
+  },
+  {
+    "value": 4944,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/3629/thumbnail.jpg",
+    "name": "Prost"
+  },
+  {
+    "value": 3198,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/3630/thumbnail.jpg",
+    "name": "New Year's Bash"
+  },
+  {
+    "value": 2960,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/3697/thumbnail.jpg",
+    "name": "Lucky Durian"
+  },
+  {
+    "value": 3956,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/3956/thumbnail.jpg",
+    "name": "Lantern Luck"
+  },
+  {
+    "value": 4908,
+    "icon": "https://d3ejb2l5e3bvmc.cloudfront.net/game-images/habanero/3961/thumbnail.jpg",
+    "name": "Disco Beats"
+  }
+]
